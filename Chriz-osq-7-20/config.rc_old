@@ -1,0 +1,2 @@
+export MONGODB_URL="mongodb://chat-mongo-all:27021/charizard"
+
